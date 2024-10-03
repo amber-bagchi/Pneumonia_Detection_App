@@ -35,6 +35,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🛠 Tech Stack
+
+- 🐍 Python
+- 📊 Streamlit
+- 🤖 Keras
+- 🔧 TensorFlow
+- 🖼️ VGG16
+- 🖼️ Pillow (PIL)
+
+
+
 ## 🖼️ Usage
 - Launch the application.
 - Upload a chest X-ray image by dragging and dropping the file into the upload area.
